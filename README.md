@@ -64,7 +64,7 @@ This project showcases **practical AI implementation**, **evolutionary algorithm
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/navyasgr/navyas_flappy_bird.git
+git clone https://github.com/_flappy_bird.git
 cd navyas_flappy_bird
 🔹 Learning Outcomes
 
